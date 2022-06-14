@@ -1,0 +1,546 @@
+{
+    "1001": [
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.15",
+            "SName": "Light",
+            "Value": 540,
+            "last_updated": "2022-05-15 07:05:35"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.15",
+            "SName": "Light",
+            "Value": 560,
+            "last_updated": "2022-05-14 22:57:35"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.15",
+            "SName": "Light",
+            "Value": 550,
+            "last_updated": "2022-05-14 22:55:35"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.10",
+            "SName": "Light",
+            "Value": 500,
+            "last_updated": "2022-05-13 21:54:39"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.10",
+            "SName": "Light",
+            "Value": 435,
+            "last_updated": "2022-05-12 23:51:29"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.10",
+            "SName": "Light",
+            "Value": 410,
+            "last_updated": "2022-04-26 23:51:26"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.10",
+            "SName": "Light",
+            "Value": 411,
+            "last_updated": "2022-04-12 23:51:25"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.10",
+            "SName": "Light",
+            "Value": 425,
+            "last_updated": "2022-03-30 23:51:11"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.10",
+            "SName": "Light",
+            "Value": 398,
+            "last_updated": "2022-03-13 23:51:11"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.10",
+            "SName": "Light",
+            "Value": 388,
+            "last_updated": "2022-02-25 23:50:51"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.10",
+            "SName": "Light",
+            "Value": 403,
+            "last_updated": "2022-02-12 23:50:51"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.5",
+            "SName": "Light",
+            "Value": 401,
+            "last_updated": "2022-01-18 23:50:51"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.5",
+            "SName": "Light",
+            "Value": 400,
+            "last_updated": "2022-01-10 23:50:51"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.43.63",
+            "SName": "Light",
+            "Value": 500,
+            "last_updated": "2022-05-20 22:47:31"
+        },
+        {
+            "ID": "1001",
+            "BName": "RASPBERRY PI",
+            "IP": "192.168.94.16",
+            "SName": "Light",
+            "Value": 350,
+            "last_updated": "2022-05-21 15:30:57"
+        }
+    ],
+    "1002": [
+        {
+            "Humidity": {
+                "Humidity": [
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Humidity",
+                        "Value": 40,
+                        "last_updated": "2022-05-16 23:57:07"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Humidity",
+                        "Value": 45,
+                        "last_updated": "2022-05-16 23:56:09"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Humidity",
+                        "Value": 50,
+                        "last_updated": "2022-05-16 23:55:59"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Humidity",
+                        "Value": 47,
+                        "last_updated": "2022-05-16 23:55:40"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Humidity",
+                        "Value": 58,
+                        "last_updated": "2022-05-16 23:55:32"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Humidity",
+                        "Value": 60,
+                        "last_updated": "2022-05-16 23:55:24"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.16",
+                        "SName": "Humidity",
+                        "Value": 28,
+                        "last_updated": "2022-05-15 07:07:35"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.15",
+                        "SName": "Humidity",
+                        "Value": 35,
+                        "last_updated": "2022-05-14 22:55:35"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.15",
+                        "SName": "Humidity",
+                        "Value": 31,
+                        "last_updated": "2022-05-14 22:51:35"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Humidity",
+                        "Value": 51,
+                        "last_updated": "2022-05-12 23:49:02"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Humidity",
+                        "Value": 52,
+                        "last_updated": "2022-05-12 23:49:02"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Humidity",
+                        "Value": 47,
+                        "last_updated": "2022-05-12 23:49:02"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Humidity",
+                        "Value": 40,
+                        "last_updated": "2022-05-12 23:47:43"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Humidity",
+                        "Value": 47,
+                        "last_updated": "2022-04-28 23:47:43"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Humidity",
+                        "Value": 51,
+                        "last_updated": "2022-03-12 23:47:43"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Humidity",
+                        "Value": 51,
+                        "last_updated": "2022-02-23 23:47:12"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Humidity",
+                        "Value": 50,
+                        "last_updated": "2022-02-10 23:47:12"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Humidity",
+                        "Value": 52,
+                        "last_updated": "2022-01-23 23:47:12"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Humidity",
+                        "Value": 50,
+                        "last_updated": "2022-01-12 23:47:12"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Humidity",
+                        "Value": 65,
+                        "last_updated": "2022-05-20 23:57:25"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.16",
+                        "SName": "Humidity",
+                        "Value": 55,
+                        "last_updated": "2022-05-21 15:25:27"
+                    }
+                ]
+            },
+            "Tempurature": {
+                "Tempurature": [
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 16.6,
+                        "last_updated": "2022-05-16 23:57:25"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 16.7,
+                        "last_updated": "2022-05-16 23:57:07"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 16.9,
+                        "last_updated": "2022-05-16 23:56:25"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 17.0,
+                        "last_updated": "2022-05-16 23:56:09"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 17.1,
+                        "last_updated": "2022-05-16 23:55:59"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 17.1,
+                        "last_updated": "2022-05-16 23:55:51"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 17.2,
+                        "last_updated": "2022-05-16 23:55:40"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 17.2,
+                        "last_updated": "2022-05-16 23:55:32"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.43.213",
+                        "SName": "Tempurature",
+                        "Value": 17.2,
+                        "last_updated": "2022-05-16 23:55:24"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.15",
+                        "SName": "Tempurature",
+                        "Value": 35,
+                        "last_updated": "2022-05-14 22:55:35"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.15",
+                        "SName": "Tempurature",
+                        "Value": 31,
+                        "last_updated": "2022-05-14 22:51:35"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.5.4",
+                        "SName": "Tempurature",
+                        "Value": 50,
+                        "last_updated": "2022-05-14 15:06:15"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 45,
+                        "last_updated": "2022-05-12 23:46:38"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 41,
+                        "last_updated": "2022-05-12 22:46:38"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 40,
+                        "last_updated": "2022-05-12 21:46:38"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 40,
+                        "last_updated": "2022-05-12 20:46:38"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 44,
+                        "last_updated": "2022-05-12 19:46:27"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.6",
+                        "SName": "Tempurature",
+                        "Value": 47,
+                        "last_updated": "2022-05-12 18:46:27"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Tempurature",
+                        "Value": 46,
+                        "last_updated": "2022-05-12 17:45:57"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 46,
+                        "last_updated": "2022-04-21 23:46:27"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 42,
+                        "last_updated": "2022-04-19 23:46:27"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 50,
+                        "last_updated": "2022-04-15 23:46:09"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 46,
+                        "last_updated": "2022-03-25 23:46:09"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 52,
+                        "last_updated": "2022-03-12 23:46:09"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.5",
+                        "SName": "Tempurature",
+                        "Value": 53,
+                        "last_updated": "2022-02-28 23:46:09"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Tempurature",
+                        "Value": 50,
+                        "last_updated": "2022-02-14 23:45:57"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Tempurature",
+                        "Value": 52,
+                        "last_updated": "2022-01-12 23:45:57"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.4",
+                        "SName": "Tempurature",
+                        "Value": 53,
+                        "last_updated": "2022-01-10 23:45:57"
+                    },
+                    {
+                        "ID": "1002",
+                        "BName": "WEMOS D1",
+                        "IP": "192.168.94.16",
+                        "SName": "Tempurature",
+                        "Value": 28,
+                        "last_updated": "2022-05-21 15:25:27"
+                    }
+                ]
+            }
+        }
+    ],
+    "1003": [
+        {
+            "State_1": 1,
+            "last_updated": "2022-05-20 23:57:25"
+        },
+        {
+            "State_2": 0,
+            "last_updated": "2022-05-20 23:57:25"
+        }
+    ]
+}
